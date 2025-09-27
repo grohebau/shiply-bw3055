@@ -36,10 +36,10 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Cargo City Süd 571",
+      "postal_code": "60549",
+      "city": "Frankfurt am Main",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     }
