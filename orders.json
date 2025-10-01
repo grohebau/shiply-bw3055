@@ -1,6 +1,6 @@
 {
   "S41381": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Thomas Kehl, Bleichestraße 9, 79576 Weil am Rhein, Deutschland",
     "receiver": "Reiko Händler, Neue Straße 12, 14482 Potsdam, Deutschland",
@@ -26,11 +26,11 @@
       }
     ],
     "orderDate": "25-09-2025",
-    "deliveryDate": "30-09-2025, 15:30 Uhr",
+    "deliveryDate": "03-10-2025, 11:30 Uhr",
     "pickup": {
-      "street": "Cargo City Süd 571",
-      "postal_code": "60549",
-      "city": "Frankfurt am Main",
+      "street": "Holzhauser Str. 140",
+      "postal_code": "13509",
+      "city": "Berlin",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
